@@ -1,6 +1,5 @@
 /*
-
-iSTO SERÁ PAGAFO
+Teste do JENKINS
 
 Template Name: vacayhome
 File: Licence
